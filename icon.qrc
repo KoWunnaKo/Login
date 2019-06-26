@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>image/add-user.svg</file>
+        <file>image/auricular-phone-symbol-in-a-circle.svg</file>
+        <file>image/cross-circular-button.svg</file>
+        <file>image/icon.svg</file>
+        <file>image/information.svg</file>
+        <file>image/menu.svg</file>
+        <file>image/right.svg</file>
+        <file>image/world-wide-web.svg</file>
+        <file>image/world-wide-web(1).svg</file>
+    </qresource>
+</RCC>
